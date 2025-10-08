@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://clotheeo.com">
-    <img src="https://img.shields.io/badge/Clotheeo.com-E34F26?style=for-the-badge&logo=shopify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Clotheeo.com-E34F26?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
   <a href="https://sudhirinsights.com">
     <img src="https://sudhirinsights.com/wp-content/uploads/2025/08/logo-dark-2.png.webp" alt="Sudhir Insights" height="32" style="vertical-align:middle; border-radius:6px;" />
